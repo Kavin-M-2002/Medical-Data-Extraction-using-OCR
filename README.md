@@ -14,15 +14,15 @@ Here, we are using the Python programming language and pytesseract google librar
 
 # Technologies Used
 
-> Python
-> oops
-> Pdf2image module
-> Opencv
-> pytesseract
-> Regular expression
-> pytest
-> Postman
-> FastApi
+1) Python
+2) oops
+3) Pdf2image module
+4) Opencv
+5) pytesseract
+6) Regular expression
+7) pytest
+8) Postman
+9) FastApi
 
 # Workflow
 
